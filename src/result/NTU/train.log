@@ -1,0 +1,272 @@
+2021/03/12 14:58:36 ======================================================
+2021/03/12 14:59:39 ======================================================
+2021/03/12 15:06:22 ======================================================
+2021/03/12 15:10:40 Epoch#0: total loss=669.3093
+2021/03/12 15:15:05 Epoch#1: total loss=2.3038
+2021/03/12 15:19:31 Epoch#2: total loss=2.3035
+2021/03/12 21:48:01 ======================================================
+2021/03/12 21:48:33 Epoch#0: total training loss=2.2871, total training accuracy=0.1212, total test loss=2.2437, test accuracy=0.1700 
+2021/03/12 21:49:02 Epoch#1: total training loss=2.0187, total training accuracy=0.2750, total test loss=1.7958, test accuracy=0.4100 
+2021/03/12 21:49:32 Epoch#2: total training loss=1.4871, total training accuracy=0.5225, total test loss=1.5780, test accuracy=0.4350 
+2021/03/12 21:49:42 ======================================================
+2021/03/12 21:50:12 Epoch#0: total training loss=2.2983, total training accuracy=0.1000, total test loss=2.2824, test accuracy=0.1700 
+2021/03/12 21:50:41 Epoch#1: total training loss=2.2237, total training accuracy=0.2537, total test loss=2.1186, test accuracy=0.3350 
+2021/03/12 21:51:10 Epoch#2: total training loss=1.6149, total training accuracy=0.5000, total test loss=1.4397, test accuracy=0.5800 
+2021/03/12 21:51:39 Epoch#3: total training loss=0.9915, total training accuracy=0.6863, total test loss=0.9663, test accuracy=0.7200 
+2021/03/12 21:52:08 Epoch#4: total training loss=0.5879, total training accuracy=0.7987, total test loss=0.8104, test accuracy=0.7700 
+2021/03/12 21:52:36 Epoch#5: total training loss=0.4019, total training accuracy=0.8712, total test loss=0.8848, test accuracy=0.7650 
+2021/03/12 21:53:05 Epoch#6: total training loss=0.3232, total training accuracy=0.8988, total test loss=0.6720, test accuracy=0.8000 
+2021/03/12 21:53:34 Epoch#7: total training loss=0.3357, total training accuracy=0.8750, total test loss=0.6237, test accuracy=0.8150 
+2021/03/12 21:54:03 Epoch#8: total training loss=0.1830, total training accuracy=0.9287, total test loss=0.8179, test accuracy=0.7850 
+2021/03/12 21:54:32 Epoch#9: total training loss=0.2597, total training accuracy=0.9075, total test loss=0.6360, test accuracy=0.8000 
+2021/03/12 21:55:01 Epoch#10: total training loss=0.1180, total training accuracy=0.9575, total test loss=0.6785, test accuracy=0.8300 
+2021/03/12 21:55:31 Epoch#11: total training loss=0.0985, total training accuracy=0.9738, total test loss=0.6898, test accuracy=0.8300 
+2021/03/12 21:56:00 Epoch#12: total training loss=0.0669, total training accuracy=0.9838, total test loss=0.5320, test accuracy=0.8700 
+2021/03/12 21:56:29 Epoch#13: total training loss=0.0646, total training accuracy=0.9825, total test loss=0.8605, test accuracy=0.8400 
+2021/03/12 21:56:58 Epoch#14: total training loss=0.0400, total training accuracy=0.9900, total test loss=0.6085, test accuracy=0.8600 
+2021/03/12 21:57:27 Epoch#15: total training loss=0.0315, total training accuracy=0.9888, total test loss=0.5904, test accuracy=0.8900 
+2021/03/12 21:57:56 Epoch#16: total training loss=0.0046, total training accuracy=1.0000, total test loss=0.5827, test accuracy=0.8950 
+2021/03/12 21:58:25 Epoch#17: total training loss=0.0027, total training accuracy=1.0000, total test loss=0.6046, test accuracy=0.8850 
+2021/03/12 21:58:54 Epoch#18: total training loss=0.0014, total training accuracy=1.0000, total test loss=0.6189, test accuracy=0.8900 
+2021/03/12 21:59:23 Epoch#19: total training loss=0.0011, total training accuracy=1.0000, total test loss=0.6311, test accuracy=0.8900 
+2021/03/12 21:59:52 Epoch#20: total training loss=0.0010, total training accuracy=1.0000, total test loss=0.6407, test accuracy=0.8900 
+2021/03/12 22:00:22 Epoch#21: total training loss=0.0008, total training accuracy=1.0000, total test loss=0.6493, test accuracy=0.8900 
+2021/03/12 22:00:51 Epoch#22: total training loss=0.0007, total training accuracy=1.0000, total test loss=0.6567, test accuracy=0.8900 
+2021/03/12 22:01:20 Epoch#23: total training loss=0.0007, total training accuracy=1.0000, total test loss=0.6640, test accuracy=0.8900 
+2021/03/12 22:01:49 Epoch#24: total training loss=0.0006, total training accuracy=1.0000, total test loss=0.6701, test accuracy=0.8900 
+2021/03/12 22:02:19 Epoch#25: total training loss=0.0005, total training accuracy=1.0000, total test loss=0.6759, test accuracy=0.8900 
+2021/03/12 22:02:48 Epoch#26: total training loss=0.0005, total training accuracy=1.0000, total test loss=0.6811, test accuracy=0.8900 
+2021/03/12 22:03:17 Epoch#27: total training loss=0.0005, total training accuracy=1.0000, total test loss=0.6861, test accuracy=0.8900 
+2021/03/12 22:03:46 Epoch#28: total training loss=0.0004, total training accuracy=1.0000, total test loss=0.6907, test accuracy=0.8900 
+2021/03/12 22:04:15 Epoch#29: total training loss=0.0004, total training accuracy=1.0000, total test loss=0.6949, test accuracy=0.8900 
+2021/03/12 22:07:46 ======================================================
+2021/03/12 22:08:17 Epoch#0: total training loss=2.3031, total training accuracy=0.1000, total test loss=2.2888, test accuracy=0.1450 
+2021/03/12 22:08:48 Epoch#1: total training loss=2.2826, total training accuracy=0.2087, total test loss=2.2510, test accuracy=0.3250 
+2021/03/12 22:12:31 ======================================================
+2021/03/12 22:13:02 Epoch#0: total training loss=2.2806, total training accuracy=0.1400, total test loss=2.2202, test accuracy=0.2450 
+2021/03/12 22:13:31 Epoch#1: total training loss=1.9304, total training accuracy=0.3625, total test loss=1.5492, test accuracy=0.5500 
+2021/03/12 22:14:00 Epoch#2: total training loss=1.2374, total training accuracy=0.6275, total test loss=0.8636, test accuracy=0.7300 
+2021/03/13 19:35:12 ======================================================
+2021/03/13 19:35:48 Epoch#0: total training loss=2.2919, total training accuracy=0.1588, total test loss=2.2857, test accuracy=0.1250 
+2021/03/13 19:37:46 ======================================================
+2021/03/13 19:38:16 Epoch#0: total training loss=2.2881, total training accuracy=0.1425, total test loss=2.2523, test accuracy=0.2750 
+2021/03/13 19:38:45 ======================================================
+2021/03/13 19:39:15 Epoch#0: total training loss=2.2718, total training accuracy=0.2013, total test loss=2.1891, test accuracy=0.1750 
+2021/03/13 19:39:45 Epoch#1: total training loss=1.8731, total training accuracy=0.3638, total test loss=1.4731, test accuracy=0.5450 
+2021/03/13 19:40:15 Epoch#2: total training loss=1.2591, total training accuracy=0.5850, total test loss=1.0413, test accuracy=0.6600 
+2021/03/13 19:40:46 Epoch#3: total training loss=0.7719, total training accuracy=0.7700, total test loss=0.8896, test accuracy=0.7100 
+2021/03/13 19:41:16 Epoch#4: total training loss=0.4784, total training accuracy=0.8462, total test loss=0.6734, test accuracy=0.7800 
+2021/03/13 19:41:47 Epoch#5: total training loss=0.3477, total training accuracy=0.8900, total test loss=0.6730, test accuracy=0.7900 
+2021/03/13 19:42:20 Epoch#6: total training loss=0.2822, total training accuracy=0.9062, total test loss=0.6788, test accuracy=0.8300 
+2021/03/13 19:42:50 Epoch#7: total training loss=0.1800, total training accuracy=0.9425, total test loss=0.7110, test accuracy=0.8400 
+2021/03/13 19:43:21 Epoch#8: total training loss=0.2266, total training accuracy=0.9287, total test loss=0.4849, test accuracy=0.8400 
+2021/03/13 19:43:53 Epoch#9: total training loss=0.0850, total training accuracy=0.9750, total test loss=0.5616, test accuracy=0.8650 
+2021/03/13 19:44:24 Epoch#10: total training loss=0.1742, total training accuracy=0.9450, total test loss=0.4912, test accuracy=0.8500 
+2021/03/13 19:44:54 Epoch#11: total training loss=0.1279, total training accuracy=0.9688, total test loss=0.6212, test accuracy=0.8600 
+2021/03/13 19:45:25 Epoch#12: total training loss=0.0447, total training accuracy=0.9925, total test loss=0.5260, test accuracy=0.8900 
+2021/03/13 19:45:56 Epoch#13: total training loss=0.0180, total training accuracy=0.9938, total test loss=0.5713, test accuracy=0.8800 
+2021/03/13 19:46:27 Epoch#14: total training loss=0.0080, total training accuracy=0.9988, total test loss=0.5537, test accuracy=0.8800 
+2021/03/13 19:46:58 Epoch#15: total training loss=0.0040, total training accuracy=1.0000, total test loss=0.5716, test accuracy=0.8850 
+2021/03/13 19:47:29 Epoch#16: total training loss=0.0018, total training accuracy=1.0000, total test loss=0.5796, test accuracy=0.8850 
+2021/03/13 19:47:59 Epoch#17: total training loss=0.0014, total training accuracy=1.0000, total test loss=0.5926, test accuracy=0.8850 
+2021/03/13 19:48:30 Epoch#18: total training loss=0.0012, total training accuracy=1.0000, total test loss=0.6037, test accuracy=0.8850 
+2021/03/13 19:49:01 Epoch#19: total training loss=0.0010, total training accuracy=1.0000, total test loss=0.6133, test accuracy=0.8850 
+2021/03/15 11:26:31 ======================================================
+2021/03/15 11:27:05 Epoch#0: total training loss=2.2980, total training accuracy=0.0925, total test loss=2.2793, test accuracy=0.1300 
+2021/03/15 11:27:39 Epoch#1: total training loss=2.2173, total training accuracy=0.2475, total test loss=2.0803, test accuracy=0.3000 
+2021/03/15 11:28:13 Epoch#2: total training loss=1.6849, total training accuracy=0.4587, total test loss=1.3988, test accuracy=0.5300 
+2021/03/15 11:28:46 Epoch#3: total training loss=1.1191, total training accuracy=0.6300, total test loss=1.1591, test accuracy=0.6100 
+2021/03/15 11:29:19 Epoch#4: total training loss=0.6833, total training accuracy=0.7775, total test loss=0.8516, test accuracy=0.7300 
+2021/03/15 11:29:52 Epoch#5: total training loss=0.4725, total training accuracy=0.8250, total test loss=0.9292, test accuracy=0.7500 
+2021/03/15 11:30:27 Epoch#6: total training loss=0.3285, total training accuracy=0.8975, total test loss=0.9805, test accuracy=0.7650 
+2021/03/15 11:30:59 Epoch#7: total training loss=0.2624, total training accuracy=0.9137, total test loss=0.9714, test accuracy=0.7350 
+2021/03/15 11:31:34 Epoch#8: total training loss=0.2637, total training accuracy=0.9225, total test loss=0.6627, test accuracy=0.8300 
+2021/03/15 11:32:08 Epoch#9: total training loss=0.1439, total training accuracy=0.9537, total test loss=0.6222, test accuracy=0.8600 
+2021/03/15 11:32:41 Epoch#10: total training loss=0.1525, total training accuracy=0.9463, total test loss=0.5443, test accuracy=0.8650 
+2021/03/15 11:33:16 Epoch#11: total training loss=0.1528, total training accuracy=0.9537, total test loss=0.5711, test accuracy=0.8650 
+2021/03/15 11:33:50 Epoch#12: total training loss=0.0967, total training accuracy=0.9700, total test loss=0.5776, test accuracy=0.8550 
+2021/03/15 11:34:22 Epoch#13: total training loss=0.1097, total training accuracy=0.9700, total test loss=0.5331, test accuracy=0.8800 
+2021/03/15 11:34:56 Epoch#14: total training loss=0.0706, total training accuracy=0.9750, total test loss=0.4937, test accuracy=0.8950 
+2021/03/19 19:57:37 ======================================================
+2021/03/19 19:57:44 Epoch#0: total training loss=2.3020, total training accuracy=0.1313, total test loss=2.3021, test accuracy=0.1250 
+2021/03/19 19:57:49 Epoch#1: total training loss=2.2766, total training accuracy=0.1425, total test loss=2.2882, test accuracy=0.1700 
+2021/03/19 19:57:54 Epoch#2: total training loss=2.2064, total training accuracy=0.2288, total test loss=2.2521, test accuracy=0.2050 
+2021/03/19 19:57:59 Epoch#3: total training loss=2.0711, total training accuracy=0.2838, total test loss=2.2218, test accuracy=0.2400 
+2021/03/19 19:58:04 Epoch#4: total training loss=1.8590, total training accuracy=0.3862, total test loss=2.2562, test accuracy=0.2550 
+2021/03/19 19:58:09 Epoch#5: total training loss=1.6234, total training accuracy=0.4825, total test loss=2.4069, test accuracy=0.3100 
+2021/03/19 19:58:13 Epoch#6: total training loss=1.4321, total training accuracy=0.5413, total test loss=2.5574, test accuracy=0.3200 
+2021/03/19 19:58:18 Epoch#7: total training loss=1.2486, total training accuracy=0.5887, total test loss=2.6898, test accuracy=0.3700 
+2021/03/19 19:58:23 Epoch#8: total training loss=1.0999, total training accuracy=0.6512, total test loss=2.9408, test accuracy=0.3700 
+2021/03/19 19:58:27 Epoch#9: total training loss=0.9313, total training accuracy=0.6863, total test loss=3.0154, test accuracy=0.3500 
+2021/03/19 19:58:32 Epoch#10: total training loss=0.7646, total training accuracy=0.7388, total test loss=2.7624, test accuracy=0.3750 
+2021/03/19 19:58:37 Epoch#11: total training loss=0.6545, total training accuracy=0.7762, total test loss=3.0717, test accuracy=0.4100 
+2021/03/19 19:58:41 Epoch#12: total training loss=0.5225, total training accuracy=0.8263, total test loss=3.6518, test accuracy=0.3900 
+2021/03/19 19:58:46 Epoch#13: total training loss=0.5668, total training accuracy=0.8037, total test loss=3.5886, test accuracy=0.3700 
+2021/03/19 19:58:51 Epoch#14: total training loss=0.4628, total training accuracy=0.8488, total test loss=3.3814, test accuracy=0.3700 
+2021/03/19 19:58:55 Epoch#15: total training loss=0.3595, total training accuracy=0.8862, total test loss=3.8158, test accuracy=0.4000 
+2021/03/19 19:59:00 Epoch#16: total training loss=0.3298, total training accuracy=0.8862, total test loss=4.4820, test accuracy=0.3650 
+2021/03/19 19:59:05 Epoch#17: total training loss=0.3258, total training accuracy=0.8938, total test loss=4.0049, test accuracy=0.4050 
+2021/03/19 19:59:09 Epoch#18: total training loss=0.3977, total training accuracy=0.8688, total test loss=3.7759, test accuracy=0.4200 
+2021/03/19 19:59:14 Epoch#19: total training loss=0.3237, total training accuracy=0.8925, total test loss=4.1841, test accuracy=0.4000 
+2021/03/19 21:11:08 ======================================================
+2021/03/19 21:11:13 Epoch#0: total training loss=2.3041, total training accuracy=0.1087, total test loss=2.3014, test accuracy=0.1200 
+2021/03/19 21:11:18 Epoch#1: total training loss=2.2928, total training accuracy=0.1512, total test loss=2.2921, test accuracy=0.1350 
+2021/03/19 21:11:23 Epoch#2: total training loss=2.2618, total training accuracy=0.1737, total test loss=2.2497, test accuracy=0.1550 
+2021/03/19 21:11:27 Epoch#3: total training loss=2.1604, total training accuracy=0.2537, total test loss=2.1518, test accuracy=0.2450 
+2021/03/19 21:11:32 Epoch#4: total training loss=2.0104, total training accuracy=0.3113, total test loss=2.1132, test accuracy=0.2800 
+2021/03/19 21:11:37 Epoch#5: total training loss=1.8234, total training accuracy=0.3925, total test loss=2.0936, test accuracy=0.2900 
+2021/03/19 21:11:41 Epoch#6: total training loss=1.6521, total training accuracy=0.4550, total test loss=2.0788, test accuracy=0.3300 
+2021/03/19 21:11:46 Epoch#7: total training loss=1.4263, total training accuracy=0.5125, total test loss=2.1811, test accuracy=0.3850 
+2021/03/19 21:11:50 Epoch#8: total training loss=1.2562, total training accuracy=0.5625, total test loss=2.2288, test accuracy=0.4150 
+2021/03/19 21:11:55 Epoch#9: total training loss=1.1794, total training accuracy=0.5925, total test loss=2.1865, test accuracy=0.3800 
+2021/03/19 21:11:59 Epoch#10: total training loss=0.9643, total training accuracy=0.6675, total test loss=2.5580, test accuracy=0.3800 
+2021/03/19 21:12:04 Epoch#11: total training loss=0.8822, total training accuracy=0.6850, total test loss=2.4716, test accuracy=0.4450 
+2021/03/19 21:12:08 Epoch#12: total training loss=0.7497, total training accuracy=0.7425, total test loss=2.6669, test accuracy=0.4250 
+2021/03/19 21:12:12 Epoch#13: total training loss=0.6419, total training accuracy=0.7725, total test loss=2.5806, test accuracy=0.4350 
+2021/03/19 21:12:17 Epoch#14: total training loss=0.6182, total training accuracy=0.7913, total test loss=2.7264, test accuracy=0.4300 
+2021/03/19 21:12:21 Epoch#15: total training loss=0.6024, total training accuracy=0.8063, total test loss=2.5859, test accuracy=0.4400 
+2021/03/19 21:12:26 Epoch#16: total training loss=0.4386, total training accuracy=0.8600, total test loss=2.9261, test accuracy=0.4750 
+2021/03/19 21:12:30 Epoch#17: total training loss=0.3612, total training accuracy=0.8675, total test loss=3.0917, test accuracy=0.4750 
+2021/03/19 21:12:35 Epoch#18: total training loss=0.3191, total training accuracy=0.8938, total test loss=3.3170, test accuracy=0.4200 
+2021/03/19 21:12:39 Epoch#19: total training loss=0.3760, total training accuracy=0.8800, total test loss=2.9952, test accuracy=0.4600 
+2021/03/20 00:09:07 ======================================================
+2021/03/20 00:09:45 Epoch#0: total training loss=2.2960, total training accuracy=0.1338, total test loss=2.2786, test accuracy=0.2500 
+2021/03/20 00:10:18 Epoch#1: total training loss=2.1976, total training accuracy=0.2362, total test loss=2.0078, test accuracy=0.2900 
+2021/03/20 00:10:51 Epoch#2: total training loss=1.7166, total training accuracy=0.4225, total test loss=1.6771, test accuracy=0.4400 
+2021/03/20 00:11:25 Epoch#3: total training loss=1.2538, total training accuracy=0.5900, total test loss=1.2944, test accuracy=0.5950 
+2021/03/20 00:11:58 Epoch#4: total training loss=0.9645, total training accuracy=0.6887, total test loss=1.0495, test accuracy=0.6700 
+2021/03/20 00:12:31 Epoch#5: total training loss=0.7474, total training accuracy=0.7525, total test loss=0.9987, test accuracy=0.6500 
+2021/03/20 00:13:04 Epoch#6: total training loss=0.6075, total training accuracy=0.8037, total test loss=0.9839, test accuracy=0.7050 
+2021/03/20 00:13:37 Epoch#7: total training loss=0.5031, total training accuracy=0.8363, total test loss=0.9052, test accuracy=0.7150 
+2021/03/20 00:14:09 Epoch#8: total training loss=0.4266, total training accuracy=0.8600, total test loss=0.8326, test accuracy=0.7550 
+2021/03/20 00:14:42 Epoch#9: total training loss=0.3220, total training accuracy=0.8838, total test loss=0.7520, test accuracy=0.7550 
+2021/03/20 00:15:15 Epoch#10: total training loss=0.3007, total training accuracy=0.8975, total test loss=0.8285, test accuracy=0.8000 
+2021/03/20 00:15:48 Epoch#11: total training loss=0.1600, total training accuracy=0.9325, total test loss=0.8565, test accuracy=0.7800 
+2021/03/20 00:16:22 Epoch#12: total training loss=0.2573, total training accuracy=0.9137, total test loss=0.6831, test accuracy=0.8250 
+2021/03/20 00:16:55 Epoch#13: total training loss=0.1133, total training accuracy=0.9600, total test loss=0.7603, test accuracy=0.7950 
+2021/03/20 00:17:28 Epoch#14: total training loss=0.1372, total training accuracy=0.9550, total test loss=0.6824, test accuracy=0.8350 
+2021/03/20 00:18:01 Epoch#15: total training loss=0.0559, total training accuracy=0.9825, total test loss=0.7922, test accuracy=0.8250 
+2021/03/20 00:18:34 Epoch#16: total training loss=0.0312, total training accuracy=0.9950, total test loss=0.7646, test accuracy=0.8450 
+2021/03/20 00:19:07 Epoch#17: total training loss=0.0175, total training accuracy=0.9975, total test loss=0.7994, test accuracy=0.8500 
+2021/03/20 00:19:40 Epoch#18: total training loss=0.0164, total training accuracy=0.9925, total test loss=0.8625, test accuracy=0.8500 
+2021/03/20 00:20:12 Epoch#19: total training loss=0.0405, total training accuracy=0.9875, total test loss=0.8194, test accuracy=0.8500 
+2021/03/20 00:20:29 ======================================================
+2021/03/20 00:21:02 Epoch#0: total training loss=2.2827, total training accuracy=0.1300, total test loss=2.2422, test accuracy=0.2300 
+2021/03/20 00:21:35 Epoch#1: total training loss=2.0090, total training accuracy=0.3700, total test loss=1.6067, test accuracy=0.4550 
+2021/03/20 00:22:08 Epoch#2: total training loss=1.3486, total training accuracy=0.5463, total test loss=1.1216, test accuracy=0.6750 
+2021/03/20 00:22:40 Epoch#3: total training loss=0.8398, total training accuracy=0.7375, total test loss=0.8221, test accuracy=0.7450 
+2021/03/20 00:23:13 Epoch#4: total training loss=0.5735, total training accuracy=0.8050, total test loss=0.7922, test accuracy=0.7300 
+2021/03/20 00:23:46 Epoch#5: total training loss=0.4541, total training accuracy=0.8400, total test loss=0.9420, test accuracy=0.7200 
+2021/03/20 00:24:19 Epoch#6: total training loss=0.3108, total training accuracy=0.9000, total test loss=0.7492, test accuracy=0.8100 
+2021/03/20 00:24:52 Epoch#7: total training loss=0.1866, total training accuracy=0.9350, total test loss=0.8054, test accuracy=0.7850 
+2021/03/20 00:25:24 Epoch#8: total training loss=0.2699, total training accuracy=0.9200, total test loss=0.6251, test accuracy=0.8000 
+2021/03/20 00:25:57 Epoch#9: total training loss=0.1761, total training accuracy=0.9337, total test loss=0.7583, test accuracy=0.8250 
+2021/03/20 00:26:29 Epoch#10: total training loss=0.1850, total training accuracy=0.9313, total test loss=0.8755, test accuracy=0.8350 
+2021/03/20 00:27:02 Epoch#11: total training loss=0.1132, total training accuracy=0.9675, total test loss=0.7108, test accuracy=0.8600 
+2021/03/20 00:27:36 Epoch#12: total training loss=0.0700, total training accuracy=0.9850, total test loss=0.9006, test accuracy=0.8100 
+2021/03/20 00:28:09 Epoch#13: total training loss=0.1023, total training accuracy=0.9700, total test loss=0.6744, test accuracy=0.8600 
+2021/03/20 00:28:43 Epoch#14: total training loss=0.0845, total training accuracy=0.9700, total test loss=0.7822, test accuracy=0.8300 
+2021/03/20 00:29:16 Epoch#15: total training loss=0.0331, total training accuracy=0.9900, total test loss=0.6653, test accuracy=0.8800 
+2021/03/20 00:29:50 Epoch#16: total training loss=0.0231, total training accuracy=0.9938, total test loss=0.7104, test accuracy=0.8650 
+2021/03/20 00:30:23 Epoch#17: total training loss=0.0069, total training accuracy=1.0000, total test loss=0.7437, test accuracy=0.8650 
+2021/03/20 00:30:56 Epoch#18: total training loss=0.0021, total training accuracy=1.0000, total test loss=0.7703, test accuracy=0.8600 
+2021/03/20 00:31:30 Epoch#19: total training loss=0.0015, total training accuracy=1.0000, total test loss=0.7802, test accuracy=0.8600 
+2021/03/20 00:42:37 ======================================================
+2021/03/20 00:43:34 Epoch#0: total training loss=2.2947, total training accuracy=0.1163, total test loss=2.2943, test accuracy=0.0750 
+2021/03/20 00:44:04 Epoch#1: total training loss=2.2421, total training accuracy=0.2175, total test loss=2.1620, test accuracy=0.4300 
+2021/03/20 00:44:35 Epoch#2: total training loss=1.7276, total training accuracy=0.5138, total test loss=1.4415, test accuracy=0.5250 
+2021/03/20 00:45:06 Epoch#3: total training loss=1.0088, total training accuracy=0.6750, total test loss=0.8810, test accuracy=0.7300 
+2021/03/20 00:45:37 Epoch#4: total training loss=0.6426, total training accuracy=0.7800, total test loss=0.6939, test accuracy=0.7650 
+2021/03/20 00:46:07 Epoch#5: total training loss=0.4416, total training accuracy=0.8450, total test loss=0.7599, test accuracy=0.7400 
+2021/03/20 00:46:38 Epoch#6: total training loss=0.3967, total training accuracy=0.8600, total test loss=0.5406, test accuracy=0.8600 
+2021/03/20 00:47:09 Epoch#7: total training loss=0.2759, total training accuracy=0.9025, total test loss=0.5331, test accuracy=0.8450 
+2021/03/20 00:47:41 Epoch#8: total training loss=0.2752, total training accuracy=0.9012, total test loss=0.5324, test accuracy=0.8450 
+2021/03/20 00:48:47 ======================================================
+2021/03/20 00:49:20 Epoch#0: total training loss=2.2649, total training accuracy=0.1537, total test loss=2.1678, test accuracy=0.2050 
+2021/03/20 00:49:52 Epoch#1: total training loss=1.8323, total training accuracy=0.3800, total test loss=1.6032, test accuracy=0.4700 
+2021/03/20 00:50:25 Epoch#2: total training loss=1.2569, total training accuracy=0.5887, total test loss=1.1458, test accuracy=0.6600 
+2021/03/20 00:50:58 Epoch#3: total training loss=0.9376, total training accuracy=0.6813, total test loss=1.1302, test accuracy=0.7000 
+2021/03/20 00:51:31 Epoch#4: total training loss=0.6842, total training accuracy=0.7625, total test loss=1.3359, test accuracy=0.6450 
+2021/03/20 00:52:04 Epoch#5: total training loss=0.6251, total training accuracy=0.7825, total test loss=1.1328, test accuracy=0.7200 
+2021/03/20 00:52:37 Epoch#6: total training loss=0.5114, total training accuracy=0.8300, total test loss=1.1743, test accuracy=0.7150 
+2021/03/20 00:53:10 Epoch#7: total training loss=0.4215, total training accuracy=0.8662, total test loss=1.0824, test accuracy=0.7400 
+2021/03/20 00:53:43 Epoch#8: total training loss=0.3848, total training accuracy=0.8550, total test loss=1.0004, test accuracy=0.7900 
+2021/03/20 00:54:15 Epoch#9: total training loss=0.4292, total training accuracy=0.8475, total test loss=0.9721, test accuracy=0.7500 
+2021/03/20 00:54:49 Epoch#10: total training loss=0.2922, total training accuracy=0.8950, total test loss=1.1097, test accuracy=0.7800 
+2021/03/20 00:55:22 Epoch#11: total training loss=0.2794, total training accuracy=0.9012, total test loss=1.0701, test accuracy=0.7500 
+2021/03/20 00:55:55 Epoch#12: total training loss=0.2185, total training accuracy=0.9087, total test loss=0.9461, test accuracy=0.7900 
+2021/03/20 00:56:28 Epoch#13: total training loss=0.2208, total training accuracy=0.9113, total test loss=0.8613, test accuracy=0.7800 
+2021/03/20 00:57:01 Epoch#14: total training loss=0.1506, total training accuracy=0.9500, total test loss=0.9368, test accuracy=0.8150 
+2021/03/20 00:57:34 Epoch#15: total training loss=0.2233, total training accuracy=0.9237, total test loss=0.7797, test accuracy=0.8150 
+2021/03/20 00:58:08 Epoch#16: total training loss=0.1323, total training accuracy=0.9563, total test loss=0.9272, test accuracy=0.8000 
+2021/03/20 00:58:40 Epoch#17: total training loss=0.0989, total training accuracy=0.9613, total test loss=1.0029, test accuracy=0.8000 
+2021/03/20 00:59:12 Epoch#18: total training loss=0.1080, total training accuracy=0.9613, total test loss=0.9054, test accuracy=0.8200 
+2021/03/20 00:59:45 Epoch#19: total training loss=0.0759, total training accuracy=0.9762, total test loss=0.9061, test accuracy=0.8250 
+2021/03/20 01:00:00 ======================================================
+2021/03/20 01:00:33 Epoch#0: total training loss=2.2993, total training accuracy=0.1150, total test loss=2.2805, test accuracy=0.1750 
+2021/03/20 01:01:06 Epoch#1: total training loss=2.1752, total training accuracy=0.2587, total test loss=1.8936, test accuracy=0.3750 
+2021/03/20 01:01:39 Epoch#2: total training loss=1.6442, total training accuracy=0.4775, total test loss=1.3591, test accuracy=0.5350 
+2021/03/20 01:02:12 Epoch#3: total training loss=1.0916, total training accuracy=0.6175, total test loss=1.1078, test accuracy=0.6400 
+2021/03/20 01:02:45 Epoch#4: total training loss=0.7672, total training accuracy=0.7412, total test loss=0.8867, test accuracy=0.7050 
+2021/03/20 01:03:18 Epoch#5: total training loss=0.5099, total training accuracy=0.8325, total test loss=0.7724, test accuracy=0.7600 
+2021/03/20 01:03:51 Epoch#6: total training loss=0.4104, total training accuracy=0.8562, total test loss=0.6708, test accuracy=0.7800 
+2021/03/20 01:04:24 Epoch#7: total training loss=0.2684, total training accuracy=0.9087, total test loss=0.6301, test accuracy=0.7750 
+2021/03/20 01:04:57 Epoch#8: total training loss=0.1930, total training accuracy=0.9375, total test loss=0.6848, test accuracy=0.8050 
+2021/03/20 01:05:31 Epoch#9: total training loss=0.1829, total training accuracy=0.9275, total test loss=0.6702, test accuracy=0.8400 
+2021/03/20 01:06:04 Epoch#10: total training loss=0.1059, total training accuracy=0.9688, total test loss=0.7511, test accuracy=0.8350 
+2021/03/20 01:06:38 Epoch#11: total training loss=0.0449, total training accuracy=0.9862, total test loss=0.6327, test accuracy=0.8800 
+2021/03/20 01:07:11 Epoch#12: total training loss=0.1005, total training accuracy=0.9775, total test loss=0.6913, test accuracy=0.8250 
+2021/03/20 01:07:44 Epoch#13: total training loss=0.0574, total training accuracy=0.9850, total test loss=0.5227, test accuracy=0.8900 
+2021/03/20 01:08:18 Epoch#14: total training loss=0.0520, total training accuracy=0.9912, total test loss=0.5472, test accuracy=0.8800 
+2021/03/20 01:08:51 Epoch#15: total training loss=0.0056, total training accuracy=1.0000, total test loss=0.5812, test accuracy=0.9000 
+2021/03/20 01:09:24 Epoch#16: total training loss=0.0027, total training accuracy=1.0000, total test loss=0.6031, test accuracy=0.9000 
+2021/03/20 01:09:57 Epoch#17: total training loss=0.0019, total training accuracy=1.0000, total test loss=0.6209, test accuracy=0.8950 
+2021/03/20 01:10:30 Epoch#18: total training loss=0.0015, total training accuracy=1.0000, total test loss=0.6334, test accuracy=0.8950 
+2021/03/20 01:11:03 Epoch#19: total training loss=0.0013, total training accuracy=1.0000, total test loss=0.6437, test accuracy=0.8950 
+2021/03/21 21:12:16 ======================================================
+2021/03/21 21:15:03 Epoch#0: total training loss=2.3017, total training accuracy=0.1025, total test loss=2.2934, test accuracy=0.0900 
+2021/03/22 09:42:15 ======================================================
+2021/03/22 09:44:05 Epoch#0: total training loss=2.2818, total training accuracy=0.1700, total test loss=2.2328, test accuracy=0.3350 
+2021/03/22 09:44:53 Epoch#1: total training loss=1.9919, total training accuracy=0.3375, total test loss=1.6003, test accuracy=0.4350 
+2021/03/22 09:45:42 Epoch#2: total training loss=1.2947, total training accuracy=0.5687, total test loss=1.1840, test accuracy=0.6400 
+2021/03/22 09:46:31 Epoch#3: total training loss=0.8463, total training accuracy=0.7362, total test loss=0.9361, test accuracy=0.6900 
+2021/03/22 09:47:20 Epoch#4: total training loss=0.5506, total training accuracy=0.8175, total test loss=0.6933, test accuracy=0.7750 
+2021/03/22 09:48:09 Epoch#5: total training loss=0.4398, total training accuracy=0.8550, total test loss=0.7879, test accuracy=0.7900 
+2021/03/22 09:48:58 Epoch#6: total training loss=0.3939, total training accuracy=0.8762, total test loss=0.7953, test accuracy=0.8000 
+2021/03/22 11:24:52 ======================================================
+2021/03/22 11:25:44 Epoch#0: total training loss=2.2950, total training accuracy=0.1288, total test loss=2.2741, test accuracy=0.2000 
+2021/03/22 11:26:37 Epoch#1: total training loss=2.1420, total training accuracy=0.2812, total test loss=1.8662, test accuracy=0.3250 
+2021/03/22 12:22:56 ======================================================
+2021/03/22 12:23:50 Epoch#0: total training loss=2.2710, total training accuracy=0.1888, total test loss=2.1525, test accuracy=0.3550 
+2021/03/22 12:24:41 Epoch#1: total training loss=1.8574, total training accuracy=0.3588, total test loss=1.4467, test accuracy=0.5000 
+2021/03/22 12:25:33 Epoch#2: total training loss=1.2631, total training accuracy=0.6050, total test loss=1.1456, test accuracy=0.6350 
+2021/03/22 12:26:24 Epoch#3: total training loss=0.8621, total training accuracy=0.7013, total test loss=0.9221, test accuracy=0.7250 
+2021/03/22 12:27:16 Epoch#4: total training loss=0.6319, total training accuracy=0.7925, total test loss=1.1299, test accuracy=0.6900 
+2021/03/22 12:28:08 Epoch#5: total training loss=0.4737, total training accuracy=0.8400, total test loss=0.9093, test accuracy=0.7750 
+2021/03/22 12:29:00 Epoch#6: total training loss=0.3033, total training accuracy=0.8825, total test loss=0.7191, test accuracy=0.7950 
+2021/03/22 12:29:53 Epoch#7: total training loss=0.2258, total training accuracy=0.9150, total test loss=0.7779, test accuracy=0.8200 
+2021/03/22 12:30:45 Epoch#8: total training loss=0.1934, total training accuracy=0.9363, total test loss=0.7594, test accuracy=0.8450 
+2021/03/22 12:31:36 Epoch#9: total training loss=0.1308, total training accuracy=0.9587, total test loss=0.7271, test accuracy=0.8400 
+2021/03/22 12:32:28 Epoch#10: total training loss=0.0535, total training accuracy=0.9825, total test loss=0.7566, test accuracy=0.8250 
+2021/03/22 12:33:20 Epoch#11: total training loss=0.0512, total training accuracy=0.9812, total test loss=0.6235, test accuracy=0.8500 
+2021/03/22 12:34:12 Epoch#12: total training loss=0.0471, total training accuracy=0.9812, total test loss=0.8398, test accuracy=0.8500 
+2021/03/22 12:35:03 Epoch#13: total training loss=0.1332, total training accuracy=0.9563, total test loss=0.9454, test accuracy=0.8100 
+2021/03/22 12:35:54 Epoch#14: total training loss=0.0704, total training accuracy=0.9738, total test loss=0.5721, test accuracy=0.8850 
+2021/03/22 12:36:46 Epoch#15: total training loss=0.0255, total training accuracy=0.9925, total test loss=0.6532, test accuracy=0.8650 
+2021/03/22 12:37:38 Epoch#16: total training loss=0.1140, total training accuracy=0.9663, total test loss=0.5666, test accuracy=0.8550 
+2021/03/22 12:38:30 Epoch#17: total training loss=0.0170, total training accuracy=0.9975, total test loss=0.6175, test accuracy=0.8650 
+2021/03/22 12:39:21 Epoch#18: total training loss=0.0071, total training accuracy=1.0000, total test loss=0.5772, test accuracy=0.8850 
+2021/03/22 12:40:13 Epoch#19: total training loss=0.0028, total training accuracy=1.0000, total test loss=0.5882, test accuracy=0.8850 
+2021/05/03 08:19:12 ======================================================
+2021/05/03 08:20:01 ======================================================
+2021/05/03 08:20:41 ======================================================
+2021/05/03 08:24:09 Epoch#0: total training loss=2.3027, total training accuracy=0.1013, total test loss=2.3079, test accuracy=0.1200 
+2021/05/03 08:27:26 Epoch#1: total training loss=2.2916, total training accuracy=0.1525, total test loss=2.3006, test accuracy=0.1350 
+2021/05/03 08:30:49 ======================================================
+2021/05/03 08:34:00 ======================================================
+2021/05/03 08:38:55 ======================================================
+2021/05/03 08:54:21 ======================================================
+2021/05/03 08:55:19 ======================================================
+2021/05/03 08:59:21 ======================================================
+2021/05/03 08:59:55 ======================================================
+2021/05/03 15:53:04 ======================================================
